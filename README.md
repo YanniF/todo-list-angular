@@ -1,5 +1,8 @@
 # AngularTodo
 
+Angular Crash Course 2019 - [https://www.youtube.com/watch?v=Fdf5aTYRW0E](https://www.youtube.com/watch?v=Fdf5aTYRW0E)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
 ## Development server
